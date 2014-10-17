@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[lcc:home|Door43 (lcc)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-lcc|d43-lcc repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-lcc/archive/master.zip|d43-lcc.zip]]
+
+**Recent Changes**
+{{changes>ns = lcc}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/lcc|Ethnologue data]]
+
